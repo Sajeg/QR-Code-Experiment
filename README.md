@@ -1,6 +1,6 @@
 ## QR Code Experiment
 
-This is a Jetpack Compose Android app for transferring large strings between devices via QR Code. It was a fun project to create and will remain a small-scale application.
+This is a Jetpack Compose Android app for transferring large strings between devices via animated QR Code. It was a fun project to create and will remain a small-scale application.
 
 ## Branches
 
